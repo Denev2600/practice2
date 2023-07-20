@@ -1,0 +1,23 @@
+{
+  "silver": [
+    { "id": 1, "name": "김대현", "position": "미드" },
+    { "id": 2, "name": "최진우", "position": "탑" },
+    { "id": 3, "name": "김채리", "position": "원딜" }
+  ],
+  "gold": [
+    { "id": 4, "name": "박지은", "position": "서폿" },
+    { "id": 5, "name": "김선아", "position": "서폿" },
+    { "id": 6, "name": "안선미", "position": "정글" }
+  ],
+  "diamond": [
+    { "id": 7, "name": "양종민", "position": "서폿" },
+    { "id": 8, "name": "유대현", "position": "원딜" },
+    { "id": 9, "name": "오윤진", "position": "탑" }
+  ],
+  "challenger": [
+    { "id": 10, "name": "이재용", "position": "탑" },
+    { "id": 11, "name": "유성민", "position": "정글" },
+    { "id": 12, "name": "우창식", "position": "미드" }
+  ]
+  
+}

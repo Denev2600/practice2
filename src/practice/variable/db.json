@@ -1,0 +1,36 @@
+{
+  "member": [
+    {
+      "name": "제라드",
+      "photo": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=699&q=80",
+      "job": "과학자",
+      "year": 1
+    },
+    {
+      "name": "사만다",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "job": "플로리스트",
+      "year": 3
+    },
+    {
+      "name": "올리비아",
+      "photo": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "job": "백수",
+      "year": 2
+    }
+  ],
+  "menu": [
+    {
+      "name": "짜장면",
+      "price": 5000
+    },
+    {
+      "name": "짬뽕",
+      "price": 6000
+    },
+    {
+      "name": "탕수육",
+      "price": 12000
+    }
+  ]
+}

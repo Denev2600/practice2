@@ -1,0 +1,84 @@
+{
+  "member": [
+    {
+      "name": "제라드",
+      "photo": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=699&q=80",
+      "job": "과학자",
+      "year": 1
+    },
+    {
+      "name": "사만다",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "job": "플로리스트",
+      "year": 3
+    },
+    {
+      "name": "올리비아",
+      "photo": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "job": "백수",
+      "year": 2
+    }
+  ],
+  "menu": [
+    {
+      "name": "짜장면",
+      "price": 5000
+    },
+    {
+      "name": "짬뽕",
+      "price": 6000
+    },
+    {
+      "name": "탕수육",
+      "price": 12000
+    }
+  ],
+  "blogs": [
+    {
+      "title": "갤럭시 언팩",
+      "content": "2023.07.26",
+      "id": 1
+    },
+    {
+      "title": "잘 있어요",
+      "content": "다시 만나요",
+      "id": 2
+    }
+  ],
+  "travel": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "price": 400,
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMzTd_KByeLHCZyaHs8AFlvmhFZxyAY_VJ9WbV8=s680-w680-h510",
+      "description": "Paris is the capital and most populous city of France, with an estimated population of 2,175,601 residents as of 2018, in an area of more than 105 square kilometres. Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, science and arts."
+    },
+    {
+      "id": 2,
+      "name": "London",
+      "price": 300,
+      "image": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg?width=1080&height=540&crop=1080%3A540%2Csmart&quality=75",
+      "description": "London is the capital of England."
+    },
+    {
+      "name": "NewYork",
+      "description": "city of north america",
+      "image": "https://i.namu.wiki/i/ukv3A30oaZ-keLjrpxVo6-RIvdUfZZ3OZH8DP4UGzh14am8YVmA_9wGDeTxnUSj5PP7PHLS5gECpM6K8gkPAbQZMToWOX3_9ftZ5bNOTjW9kfGmIo0t9ir6HyThme0bPO1n2i8iT5gRtfs8NbXMRSA.webp",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "id": "test",
+      "password": "test",
+      "email": "test@test.com",
+      "role": "admin"
+    },
+    {
+      "id": "guest",
+      "password": "guest",
+      "email": "guest@test.com",
+      "role": "guest"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  white-space: pre-line;
+}
+
+/* body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+} */
+
+.container {
+  border: 1px solid black;
+  width: 500px;
+  padding: 20px;
+}
+
+.pex {
+  width: 500px;
+  display: flex;
+}
+
+.pexd {
+  width: 500px;
+  height: 400px;
+  display: flex;
+}
