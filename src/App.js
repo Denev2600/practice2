@@ -4,7 +4,6 @@ import Home from "./pages/Home";
 import Blog from "./pages/Blog";
 import Header from "./components/Header";
 import BlogCreate from "./pages/BlogCreate";
-import BlogItems from "./components/BlogItems";
 import Menu from "./pages/Menu";
 import Travel from "./pages/Travel";
 import Basket from "./pages/Basket";
